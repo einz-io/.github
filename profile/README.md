@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**IDENTITY FOR THE AGENTIC WEB.**
+**HARDWARE-ROOTED TRUST FOR THE AGENTIC AGE.**
 
 EINZ is building the **Silicon Trust Protocol (STP)**, a hardware-anchored trust layer for autonomous agents. It binds agent identity to TPM/TEE-backed infrastructure, wraps delegation through Shield-MCP semantics, and attaches signed evidence to each critical action so behavior can be verified after execution.
 
